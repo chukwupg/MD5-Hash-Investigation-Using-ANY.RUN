@@ -1,0 +1,47 @@
+# Indicators of Compromise (IOCs)
+# Project: MD5 Hash Investigation – Incident Response & Malware Analysis
+# Source: IPS Alerts + ANY.RUN Sandbox Analysis
+# Format: MD5 | SHA256 | Verdict | Malware / Notes
+----------------------------------------------------------------------------
+
+MD5: 2fd03624e271ec70349ce56fb30f563b
+SHA256: 9c83a89ea0e56d5af9aa37d2dabed20b2412db8c9694a13128ea173a73557487
+Verdict: Malicious
+Threat: ASYNCRAT (Remote Access Trojan)
+Notes: Registry persistence, C2 communication, remote command execution
+--------------------------------------------------
+
+MD5: c419df63e0121d72411285780c2fc6cc
+SHA256: f47f854d327c589d174d3bb5b55d5c05f5aca73df52a6bef47596b9010190291
+Verdict: Suspicious
+Threat: Unknown
+Notes: Reconnaissance activity (registry query, system information discovery)
+--------------------------------------------------
+
+MD5: 3acf52e5a62d50bdcedcb89174bf5492
+SHA256: N/A
+Verdict: Benign
+Threat: None
+Notes: No malicious indicators found at time of analysis
+--------------------------------------------------
+
+MD5: 766b774626947000e67e0b318f558e94
+SHA256: 88dd2037d0c43abacebad866df3f8ccd2ee7d64b01405aa6756a3a1c2fac28fa
+Verdict: Malicious
+Threat: RedLine Stealer
+Notes: Credential theft, obfuscated DNS activity, malicious outbound connections
+--------------------------------------------------
+
+MD5: 422a6ca28a7e4d8e5e498523c6f049f4
+SHA256: N/A
+Verdict: Benign
+Threat: None
+Notes: No available intelligence at time of investigation
+--------------------------------------------------
+
+MD5: b497845beb135740e6caed03a2020036
+SHA256: N/A
+Verdict: Benign
+Threat: None
+Notes: No available intelligence at time of investigation
+--------------------------------------------------
