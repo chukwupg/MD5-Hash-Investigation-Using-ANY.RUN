@@ -89,6 +89,6 @@ The full report contains complete IOC tables, per-hash behavioral analysis, proc
 - Threat classification and ATT&CK mapping
 - Technical documentation and reporting
 
-Disclaimer
+## Disclaimer
 
 This project was conducted strictly for educational and research purposes. All malware hashes were analyzed in an isolated sandbox environment. No live systems or production networks were affected.
