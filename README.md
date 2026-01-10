@@ -63,13 +63,28 @@ Observed tactics across analyzed samples included:
 ```
 md5-hash-investigation/
 ├── README.md
+│
 ├── report/
 │   └── md5-hash-investigation-report.md
+│
 ├── iocs/
-│   └── md5_hashes.txt
+│   └── iocs.txt
+│
 ├── screenshots/
-├── mitre-mapping/
+│   ├── md5_2fd03624e271ec70349ce56fb30f563b_asyncrat/
+│   ├── md5_766b774626947000e67e0b318f558e94_redline/
+│   └── md5_c419df63e0121d72411285780c2fc6cc_suspicious/
+│
+├── mitre-attack/
+│   ├── md5_2fd03624e271ec70349ce56fb30f563b_asyncrat/
+│   ├── md5_c419df63e0121d72411285780c2fc6cc_suspicious/
+│   └── md5_766b774626947000e67e0b318f558e94_redline/
+│
 └── references/
+    ├── md5_2fd03624e271ec70349ce56fb30f563b_asyncrat/
+    ├── md5_766b774626947000e67e0b318f558e94_redline/
+    └── md5_c419df63e0121d72411285780c2fc6cc_suspicious/
+
 ```
 
 ---
