@@ -77,8 +77,8 @@ md5-hash-investigation/
 │
 ├── mitre-attack/
 │   ├── md5_2fd03624e271ec70349ce56fb30f563b_asyncrat/
-│   ├── md5_c419df63e0121d72411285780c2fc6cc_suspicious/
-│   └── md5_766b774626947000e67e0b318f558e94_redline/
+│   ├── md5_766b774626947000e67e0b318f558e94_redline/
+│   └── md5_c419df63e0121d72411285780c2fc6cc_suspicious/
 │
 └── references/
     ├── md5_2fd03624e271ec70349ce56fb30f563b_asyncrat/
@@ -87,7 +87,7 @@ md5-hash-investigation/
 
 ```
 
----
+--- 
 
 ## Full Technical Report
 
