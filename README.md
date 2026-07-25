@@ -1,4 +1,4 @@
-# MD5 Hash Investigation – Incident Response & Malware Analysis
+# MD5 Hash Investigation: Incident Response & Malware Analysis
 
 ## Overview
 
@@ -106,4 +106,11 @@ The full report contains complete IOC tables, per-hash behavioral analysis, proc
 
 ## Disclaimer
 
-This project was conducted strictly for educational and research purposes. All malware hashes were analyzed in an isolated sandbox environment. No live systems or production networks were affected.
+This project was conducted strictly for educational and research purposes. <br>
+All malware hashes were analyzed in an isolated sandbox environment. <br> 
+No live systems or production networks were affected.
+
+## ✍ **Author**
+
+👩‍💻 **Chukwu PraiseGod**  
+Follow my journey: [X](https://x.com/chukwupg) | [LinkedIn](https://linkedin.com/in/chukwupg)  
